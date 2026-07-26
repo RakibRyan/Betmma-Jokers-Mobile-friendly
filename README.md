@@ -1,3 +1,5 @@
+#Mobile friendly version of Betmma jokers
+
 A collection of mods made by me for Balatro.
 # 5 legendary challenges: Adds 5 challenges, each featuring a legendary joker.
 - Destroyer: With eternal caino, pareidolia and sixth sense, you need to acquire and destroy 6s to get multi.

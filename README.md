@@ -1,4 +1,4 @@
-#Mobile friendly version of Betmma jokers
+# Mobile friendly version of Betmma jokers
 
 A collection of mods made by me for Balatro.
 # 5 legendary challenges: Adds 5 challenges, each featuring a legendary joker.
